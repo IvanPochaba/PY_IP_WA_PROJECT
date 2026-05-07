@@ -20,6 +20,11 @@ Vypočítané hodnoty parametrov zobrazí samostatne do tabuľky pre mesto BRATI
 a následne ich zobrazí každý parameter samostatne do grafov pod uvedenými tabuľkami pričom v každom jednom grafe sú uvedené hodnoty
 parametrov pre mesto BRATISLAVA (SK) zelenou farbou a pre mesto VICTORIA (CA) oranžovou farbou.
 
+VYPOČÍTANÉ PARAMETRE:
 
+Relatívny slnečný svit (Srel %)
+Teplota nad rastovú teplotu 5°C (GDD °C)
+Intenzita zrážok v daný deň (Rdi mm/h)
+Index veternej expozície (Di)
 
 
