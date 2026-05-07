@@ -22,9 +22,9 @@ parametrov pre mesto BRATISLAVA (SK) zelenou farbou a pre mesto VICTORIA (CA) or
 
 VYPOČÍTANÉ PARAMETRE:
 
-Relatívny slnečný svit (Srel %)
-Teplota nad rastovú teplotu 5°C (GDD °C)
-Intenzita zrážok v daný deň (Rdi mm/h)
-Index veternej expozície (Di)
+- Relatívny slnečný svit (Srel %)
+- Teplota nad rastovú teplotu 5°C (GDD °C)
+- Intenzita zrážok v daný deň (Rdi mm/h)
+- Index veternej expozície (Di)
 
 
