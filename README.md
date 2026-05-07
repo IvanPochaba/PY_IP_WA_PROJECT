@@ -1,7 +1,7 @@
 # PY_IP_WA_PROJECT
 CONTAINS FINAL VERSION OF THE PROJECT WEATHER APPLICATION 2024 FOR ROBOT DREAMS PYTHON COURSE
 
-##PROJEKT WEATHER ANALYTICS 2024
+## PROJEKT WEATHER ANALYTICS 2024
 
 Preberá meteorologické údaje z Web portálu Open Meteo. Spracúva meteorologické údaje spôsobom, že z nich vypočíta vybrané 
 štatisticky vyčíslené hodnoty. Nakoniec vypočítané hodnoty zobrazí na jednoduchej webstránke. 
